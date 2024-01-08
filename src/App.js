@@ -17,7 +17,7 @@ function App() {
         >
           Learn React for DWB
 
-          Testing on GitHub with new branches
+          Demonstrating CICD
         </a>
       </header>
     </div>
