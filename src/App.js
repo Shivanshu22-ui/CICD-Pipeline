@@ -15,9 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React for DWB
+          Learn React.js for DWB
 
-          Demonstrating CICD
+          Demonstrating CICD demonstration 2 Ajay
         </a>
       </header>
     </div>
